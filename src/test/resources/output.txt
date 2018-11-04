@@ -1,0 +1,60 @@
+window_length=6sec
+sliding_interval=2sec
+
+a=1 b=2
+Sum=3
+
+... 2sec
+
+a=1 b=2
+a=3 b=3
+a=6 b=4
+Sum=10
+
+... 2sec
+
+a=1 b=2
+a=3 b=3
+a=6 b=4
+a=10 b=5
+a=15 b=6
+Sum=21
+
+... 2sec
+
+a=3 b=4
+a=7 b=5
+a=12 b=6
+a=18 b=7
+a=25 b=8
+Sum=33
+
+... 2sec
+
+a=5 b=6
+a=11 b=7
+a=18 b=8
+a=26 b=9
+a=35 b=10
+Sum=45
+
+... 2sec
+
+a=7 b=8
+a=15 b=9
+a=24 b=10
+a=34 b=11
+a=45 b=12
+Sum=57
+
+... 2sec
+
+a=9 b=10
+a=19 b=11
+a=30 b=12
+Sum=42
+
+... 2sec
+
+a=11 b=12
+Sum=23
